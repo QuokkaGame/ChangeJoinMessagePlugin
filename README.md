@@ -1,6 +1,6 @@
 # 🎉 Change Join Message Plugin
 
-[![Java](https://img.shields.io/badge/Java-21-red)](#) [![Paper](https://img.shields.io/badge/Paper-1.21+-blue)](https://papermc.io/downloads/paper) [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE) [![LuckPerms](https://img.shields.io/badge/LuckPerms-Supported-brightgreen)](https://luckperms.net/download)
+![Java](https://img.shields.io/badge/Java-21-red) [![Paper](https://img.shields.io/badge/Paper-1.21+-blue)](https://papermc.io/downloads/paper) [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE) [![LuckPerms](https://img.shields.io/badge/LuckPerms-Supported-brightgreen)](https://luckperms.net/download)
 
 ## 🚀 Overview
 **ChangeJoinMessagePlugin** allows you to customize the join and leave messages in Minecraft!  
