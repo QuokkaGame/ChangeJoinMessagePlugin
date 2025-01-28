@@ -1,0 +1,10 @@
+#{prefix} is the players prefix
+#{name} is the players name
+#{displname} is the players display name
+#{suffix} is the players suffix
+
+"join-message-toggle": true
+"join-message": "§e{prefix}{name}{suffix} joined the game"
+
+"leave-message-toggle": true
+"leave-message": "§e{prefix}{name}{suffix} left the game"

@@ -1,0 +1,22 @@
+name: ChangeJoinMessagePlugin
+version: '1.0'
+main: QuokkaGame.com.github.changeJoinMessagePlugin.ChangeJoinMessagePlugin
+api-version: '1.21'
+description: 'This is a minimalist plugin that changes the Join Message, supporting LuckPerms Prefix and Suffix.'
+permissions:
+  changejoin.command.use:
+    description: "use command"
+    default: op
+  changejoin.command.use.reload:
+    description: "use reload command"
+    default: op
+dependencies:
+  server:
+    LuckPerms:
+      load: OMIT
+      required: true
+      join-classpath: true
+    CommandAPI:
+      load: BEFORE
+      required: true
+      join-classpath: true
